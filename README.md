@@ -1,13 +1,8 @@
 # Project Title:
-CS50 Digital Fair
-Submitted by: Seeam Shahid Noor
-Contact: seeamnoor@college.harvard.edu
-Course: CS50 at Harvard
-User Manual
+CS50 Digital Fair by Seeam Shahid Noor
 
 # Project Description:
-A web application that is an online version of the CS50 Fair. The website allows everyone to signup to get an account. After logging
-in, users can:
+A web application that is an digital version of the famous CS50 Fair at Harvard that showcases wonderful full-stack projects. The website allows everyone to signup to get an account. After logging in, users can:
 
 # Features of the web-application:
 
